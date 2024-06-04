@@ -18,7 +18,7 @@ Yes, many functions and its implementation is weak, but I think this example is 
 
 ## 💻 Working Graph
 <p float="left">
-  <img alt="screen" width="500" src="Working_graph.png">
+  <img alt="screen" width="700" src="Working_graph.png">
 </p> 
 
 ## How to use?

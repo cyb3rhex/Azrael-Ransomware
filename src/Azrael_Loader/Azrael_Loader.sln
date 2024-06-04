@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azrael_Loader", "Azrael_Loader\Azrael_Loader.csproj", "{872039F7-157A-4632-B8DE-7E1BFC617119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{872039F7-157A-4632-B8DE-7E1BFC617119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872039F7-157A-4632-B8DE-7E1BFC617119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872039F7-157A-4632-B8DE-7E1BFC617119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872039F7-157A-4632-B8DE-7E1BFC617119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454D73DE-6DA1-4A01-89FC-4F1EAE01C2AF}
+	EndGlobalSection
+EndGlobal

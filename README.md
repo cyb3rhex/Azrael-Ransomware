@@ -14,6 +14,7 @@ Yes, many functions and its implementation is weak, but I think this example is 
  * Divided into modules: Loader, Encryptor, Form(include decrypt-function) 
 
 ## 🏴‍☠️ Video-Fragment
+https://github.com/K3rnel-Dev/Azrael-Ransomware/assets/132711888/ecfe921a-0321-4062-baa0-2e6eb6e9bc1c
 
 
 ## 💻 Working Graph
